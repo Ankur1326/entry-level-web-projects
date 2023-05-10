@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container {
+            display: inline-block;
+            cursor: pointer;
+        }
+        .container div {
+            margin-bottom: 5px;
+            width: 35px;
+            height: 5px;
+            background-color: black;
+            transition: all .4s ease;
+        }
+
+        .change div:nth-child(1) {
+            transform: translate(0, 10px) rotate(-45deg);
+        }
+        .change div:nth-child(2) {
+            opacity: 0;
+        }
+        .change div:nth-child(3){
+            transform: translate(0, -10px) rotate(45deg);
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="container" onclick="changeStyle(this)">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+
+    <script>
+        function changeStyle(x) {
+            x.classList.toggle("change")
+        }
+
+    </script>
+</body>
+</html>
