@@ -7,10 +7,10 @@ This repository contains a collection of smallest project for practice.
 <h3>1. Tabs</h3>
   Live link - 
 
-<h3>1. Accordion</h3>
+<h3>1. bulbONOff</h3>
   Live link - 
 
-<h3>1. Accordion</h3>
+<h3>1. bulbONOff</h3>
   Live link - 
 
 <h3>1. Accordion</h3>
