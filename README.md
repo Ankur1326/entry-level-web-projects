@@ -3,6 +3,7 @@ This repository contains a collection of smallest project for practice.
 
 <h3>1. Accordion</h3>
   Live link - https://papaya-daifuku-c2427b.netlify.app/
+  <a href="https://papaya-daifuku-c2427b.netlify.app/">link text</a>
 
 <h3>2. Tabs</h3>
   Live link - https://6463b0cab0a9de006c302328--sage-dasik-6abc90.netlify.app/
