@@ -4,23 +4,20 @@ This repository contains a collection of smallest project for practice.
 <h3>1. Accordion</h3>
   Live link - 
 
-<h3>1. Tabs</h3>
+<h3>2. Tabs</h3>
   Live link - 
 
-<h3>1. bulbONOff</h3>
+<h3>3. bulbONOff</h3>
   Live link - 
 
-<h3>1. bulbONOff</h3>
+<h3>4. full_page_nav</h3>
   Live link - 
 
-<h3>1. Accordion</h3>
+<h3>5. hamburgar_menu_icon</h3>
   Live link - 
 
-<h3>1. Accordion</h3>
+<h3>6. tabHeaders</h3>
   Live link - 
 
-<h3>1. Accordion</h3>
-  Live link - 
-
-<h3>1. Accordion</h3>
+<h3>7. verticleTabs</h3>
   Live link - 
